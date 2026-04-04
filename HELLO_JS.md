@@ -12,3 +12,5 @@
 - pretty much everything else
 - Abu
 - Javascript is high-level Language
+
+2. Maths Needed to start learning Programming Language
