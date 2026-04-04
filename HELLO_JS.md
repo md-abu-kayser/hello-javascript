@@ -18,3 +18,5 @@
 - google search: https://www.mathsisfun.com/algebra/introduction.html
 
 3. What is a variable, five things you need to declare a variable
+4. Variable data types, Numeric, String, Boolean
+5. JavaScript Keyword, Variable name naming convention
