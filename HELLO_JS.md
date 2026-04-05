@@ -20,3 +20,91 @@
 3. What is a variable, five things you need to declare a variable
 4. Variable data types, Numeric, String, Boolean
 5. JavaScript Keyword, Variable name naming convention
+
+## 1) Variable declaration
+
+- `var`
+- `let`
+- `const`
+
+## 2) Function / async
+
+- `function`
+- `return`
+- `await`
+- `yield`
+
+## 3) Condition / branching
+
+- `if`
+- `else`
+- `switch`
+- `case`
+- `default`
+
+## 4) Loop / iteration
+
+- `for`
+- `while`
+- `do`
+- `break`
+- `continue`
+- `in`
+- `of`
+
+## 5) Error handling
+
+- `try`
+- `catch`
+- `finally`
+- `throw`
+
+## 6) Object / class / OOP
+
+- `class`
+- `extends`
+- `super`
+- `this`
+- `new`
+- `delete`
+- `instanceof`
+- `typeof`
+- `void`
+
+## 7) Module system
+
+- `import`
+- `export`
+
+## 8) Boolean / null values
+
+- `true`
+- `false`
+- `null`
+
+## 9) Logic / control
+
+- `case`
+- `default`
+- `debugger`
+
+## 10) Strict / special / less common
+
+- `with`
+- `static`
+- `enum`
+- `implements`
+- `interface`
+- `package`
+- `private`
+- `protected`
+- `public`
+
+## 11) Async-related contextual keywords
+
+- `async`
+- `await`
+
+### important set:
+
+`var, let, const, function, return, if, else, for, while, break, continue, switch, case, try, catch, class, extends, super, import, export, this`
