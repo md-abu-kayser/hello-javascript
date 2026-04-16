@@ -1,4 +1,4 @@
-# Hello JavaScript - Part 01
+# JavaScript Fundamentals — Part 01
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -41,8 +41,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/md-abu-kayser/hello-javascript-part-01.git
-   cd hello-javascript-part-01
+   git clone https://github.com/md-abu-kayser/javascript-fundamentals-part-01.git
+   cd javascript-fundamentals-part-01
    ```
 
 2. **Open in VS Code:**
@@ -80,7 +80,7 @@ for file in introduction-to-javascript/*.js; do echo "Running $file"; node "$fil
 ## 📁 Project Structure
 
 ```
-hello-javascript-part-01/
+javascript-fundamentals-part-01/
 ├── introduction-to-javascript/
 │   ├── first.js              # Your first JavaScript program
 │   ├── variable.js           # Variable declaration and usage
