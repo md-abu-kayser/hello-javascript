@@ -4,10 +4,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
-<!-- Languages & Web Standards -->
+<!-- Languages -->
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+
+<!-- Runtime -->
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 
 A comprehensive introduction to JavaScript programming fundamentals, designed for beginners and aspiring developers. This project covers essential concepts from basic syntax to advanced topics, with hands-on examples and practical tasks.
 
